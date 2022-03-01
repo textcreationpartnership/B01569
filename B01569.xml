@@ -1,0 +1,179 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The testimony of T. Beverley according to Scripture prophecy, concerning the kingdom of Christ near approaching, summ'd up in these following positions.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1691</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B01569</idno>
+            <idno type="STC">Wing B2179A</idno>
+            <idno type="STC">ESTC R172739</idno>
+            <idno type="EEBO-CITATION">51784370</idno>
+            <idno type="OCLC">ocm 51784370</idno>
+            <idno type="VID">174796</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B01569)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 174796)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2698:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The testimony of T. Beverley according to Scripture prophecy, concerning the kingdom of Christ near approaching, summ'd up in these following positions.</title>
+                  <author>Beverley, Thomas.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1691?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place and date of publication taken from Wing (2nd ed.)</note>
+                  <note>Reproduction of original in: Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Second Advent --  Early works to 1800.</term>
+               <term>Kingdom of God --  Biblical teaching --  Early works to 1800.</term>
+               <term>Broadsides --  England --  London --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-08</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Taryn Hakala</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Taryn Hakala</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="testimony">
+            <pb facs="tcp:174796:1" rendition="simple:additions"/>
+            <head>
+               <note place="margin">And the Lord Said, Write the <hi>Viſion,</hi> and make it plain upon Tables, that He may Run, that read<g ref="char:EOLhyphen"/>eth it, for the <hi>Viſion</hi> is for an Ap<g ref="char:EOLhyphen"/>pointed Time, <hi>&amp;c. Heb.</hi> 2.2.3.</note>The Teſtimony of <hi>T. Beverley</hi> according to Scripture Prophecy, concerning the Kingdom of Chriſt near Approoching, Summ'd up in theſe Following Poſitions.</head>
+            <p>
+               <hi>Poſition</hi> 1. A Truly <hi>
+                  <g ref="char:V">Ʋ</g>niverſal, Monarchy,</hi> or <hi>Kingdom</hi> from <hi>Sea to Sea,</hi> and from the <hi>River</hi> to the <hi>Ends of the Earth,</hi> even the <hi>Dominion under the whole Heaven</hi> is decreed by God to our Lord Jeſus Chriſt, at the End of the Fourth, <hi>viz.</hi> the <hi>Roman Monarchy,</hi> yet in Being in the <hi>Papacy,</hi> in Order to Prepare for His <hi>Glorious Kingdom</hi> of a 1000 Years, in the <hi>New Heaven,</hi> and the <hi>New Earth,</hi> never to end, but to be deliver'd up to <hi>God All in All.</hi>
+            </p>
+            <p>
+               <hi>Poſit.</hi> 2. The Time of this <hi>Kingdom</hi> ſucceeding, may be known by due ſearch of the <hi>Scripture,</hi> and its <hi>Propheſies;</hi> God ha<g ref="char:EOLhyphen"/>ving Given therein a <hi>Line of Time,</hi> drawn throughout all Ages, either by its own <hi>Hiſtory,</hi> or by its <hi>Prophecy;</hi> and becauſe the <hi>Laſt Times</hi> are moſt notable, and of Greateſt Concern to be known; and Given in <hi>Myſtical,</hi> and <hi>Prophetical Delineations;</hi> The <hi>Line of Time</hi> drawn over thoſe latter <hi>Times,</hi> is ſupported by Coincident, or Collatteral <hi>Lines,</hi> with ſuch Evident Characters of Relation and Agreement, that no ſeveral Joynts of a Tube can be more known by any Marks, or fitneſs of their <hi>Commiſſures</hi> one with Another.</p>
+            <p>
+               <hi>Poſit.</hi> 3. By ſuch Search, There are ſeveral Great Reaſons of Aſſurance, that the Time is 1697. for the Succeſſion of that <hi>Kingdom:</hi> But that which may moſt eaſily Run into General Obſervation, is, That 1697 is the <hi>180th</hi> Year from the <hi>Reforma<g ref="char:EOLhyphen"/>tion,</hi> which <hi>Reformation</hi> could not have been with ſo known a Retrenchment of the <hi>Papal Kingdom,</hi> but after the manner of Chriſt's Riſing on the <hi>Morning</hi> of the <hi>Third day,</hi> call'd yet <hi>Three days;</hi> when <hi>Time, Times,</hi> and <hi>Half a Time</hi> are <hi>Sworn by Chriſt</hi> to it, if the <hi>Half Time</hi> had not been Entred; which <hi>Half Time</hi> compared with <hi>Time</hi> and <hi>Times; (Time, Times,</hi> and <hi>Half Time</hi> being juſt equal unto 1260 <hi>Days</hi> for <hi>Years.)</hi> can be but an 180 <hi>Years;</hi> Seeing then the <hi>Apoſtaſie</hi> of the <hi>Chriſtian Church,</hi> hath in all <hi>Proteſtant Judgment</hi> ſtood ſo near 1260 Years, as by the <hi>Prophecy</hi> It ought to ſtand, and that the moſt Recorded Time of the <hi>Reformation Beginning,</hi> was 1517. The <hi>180th</hi> from it muſt be 1697; And ſeeing, as ſoon as ever <hi>Papal Times</hi> ceaſe, the <hi>King<g ref="char:EOLhyphen"/>dom of Christ</hi> according to a Great <hi>Harmony of Scriptures,</hi> muſt ſucceed; The Succeſſion of that <hi>Kingdom</hi> muſt be at 1697. Who can but lay All this together!</p>
+            <p>It fairly Conſpires, That the <hi>American New World,</hi> 
+               <note n="*" place="margin">Such a one Moſt Re<g ref="char:EOLhyphen"/>markably Branded <hi>Here<g ref="char:EOLhyphen"/>ſie</hi> in the deep Time of the <hi>Apoſtaſie,</hi> by Pope <hi>Zechary.</hi> Anno 745.</note> and the <hi>Magellanic Sea</hi> were ſo lately before the <hi>Reformation</hi> diſcovered; that according to that <hi>Landſcaph of the Reformation, Revel.</hi> 10. Jeſus Chriſt making his Entry, as we ſpeak, and Claim of his <hi>Kingdom</hi> might ſet his <hi>Right Foot on the Sea,</hi> and his <hi>Left Foot on the Earth</hi> of a Larger, and Greater World, then had been Known before; and might with his <hi>Hand Lifted up to Heaven, Swear; That there ſhould be no more Time,</hi> but the <hi>Half Time</hi> Running out; The Time of the <hi>Kingdom ſucceeding</hi> to prepare for its Glory, and then his <hi>Kingdom</hi> in Full Glory Brings in Time of a <hi>New date,</hi> as every <hi>New Kingdom</hi> does, and this is ſuch Time, as never was before.</p>
+            <p>
+               <hi>Poſit.</hi> 4. The <hi>Papal Kingdom</hi> having a Greater Intereſt in <hi>Half Time,</hi> though as of a <hi>Kingdom</hi> Retrench'd, then Chriſt in Regard of hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Oath for <hi>Half Time</hi> alſo, would Aſſume in it; So many of the <hi>Kings</hi> of the <hi>Chriſtian Name,</hi> call'd the <hi>Ten Kongs,</hi> did upon ſo Great an Invitation to Recall their <hi>Power from the Beast,</hi> as the <hi>Reformation</hi> was; by a Joynt deliberate Act, as it were a Second Act with <hi>One con<g ref="char:EOLhyphen"/>ſent, Decree</hi> to <hi>Give their Kingdom</hi> ſtill to the <hi>Beast,</hi> mention'd therefore a Second Time, and with this peculiar Remark on that Second Mention, <hi>untill the Words of God ſhould be Fulfill'd</hi> in the <hi>Half Time</hi> alſo. <hi>Rev.</hi> 17.17. Seeing then this Second Act had its date from 1517, and that ſo many Kings and States could not have gone off, except It had been the <hi>Half Time</hi> entred, and that None of them ſhall Continue Longer with Him, then till the <hi>Words of God are Fulfill<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d</hi> in that <hi>Half Time</hi> alſo; How certain is it, There muſt be ſo Great a Change at 1697, the <hi>Half Times</hi> End, which ſo plainly Appears to be 97!</p>
+            <p>On the ſame Account, The <hi>Reformation</hi> cannot be perfect, but in it will be Found Remains of the <hi>Apoſtaſie,</hi> and this on the Account of the <hi>Oath of Christ</hi> for <hi>Half Time</hi> alſo; The <hi>Thunders</hi> therefore in that Foremention'd Landſcaph<g ref="char:punc">▪</g> that open'd the <hi>Reformation</hi> ſo far, as we find it, were <hi>Seal'd;</hi> That it ſhould proceed no further, but a far Greater <hi>Reformation</hi> be Expected at the End of <hi>Half Time, viz.</hi> 97. which will then certainly come to paſs, wherein All Remains of <hi>Antichriſtianiſm</hi> will be purg'd off.</p>
+            <p>
+               <hi>Poſit.</hi> 5. Thoſe Two <hi>Scriptures</hi> urg'd ſo much againſt Search into <hi>Prophetic Times, Mark</hi> 13.32. <hi>Of that Day and Hour Knoweth no Man,</hi> &amp;c. and <hi>Acts</hi> 1.7. <hi>It is not for you to Know the Times, and the Seaſons, which the Father hath ſet in his own Power,</hi> may according to the Beſt, and moſt Agreed Rules for <hi>Interpreting Scripture,</hi> be demonſtratively clear'd, to Intend no ſuch Foreprizal, ſeeing ſo many <hi>Scriptures</hi> make plain the Abundant Communication of the <hi>Knowledge of Times</hi> from God to Chriſt, and from Chriſt to his Servants, eſpecially in the <hi>Revelation, God Gave to Him to ſhew to His Servants;</hi> So that That <hi>Scripture</hi> ſtands Immutably Firm againſt all Cavill <hi>Rev.</hi> 1.3. <hi>Bleſſed is He that Readeth, and They that Hear the words of his Prophecy,</hi> moſt eſpecially, now the <hi>Time is ſo near at Hand.</hi>
+            </p>
+            <p>
+               <hi>Poſit.</hi> 6. The <hi>Turkiſh Tyranny,</hi> being a Judgment on purpoſe deſigned, and ſet out in <hi>Prophecy,</hi> as a Jugdment on the <hi>Antichriſtian Apoſtaſie,</hi> It cannot paſs off either according to the nature of the Thing, or according to the Repreſentation of <hi>Prophecy,</hi> till the Time Allowed to the <hi>Antichriſtian Apoſtaſie</hi> be Ended, and that Remov'd.</p>
+            <p>
+               <hi>Poſit.</hi> 7. The Firſt Great Dawn of the Great Change, that will be at the Succeſſion of the <hi>Kingdom of Christ,</hi> will be ſeen in the <hi>Suffering Reformed Churches,</hi> lying among the yet Continuing <hi>Popiſh Powers;</hi> wherein the <hi>Vaudois</hi> and the <hi>French Proteſtants,</hi> being the moſt Eminent, the Dealings of God towards Them, are eſpecially to be Eyed according to the nearneſs of the preſent Time, to the <hi>Kingdom of Jeſus Chriſt,</hi> and to be waited for as the Great Signal of it; And it is now every day to be expected, and to be prayed for with all Fervent Prayer, as the effect of this next Summers Action, and our Prince's Appearance in it.</p>
+            <p>
+               <hi>Poſit.</hi> 8. The Deſolations on the <hi>Jewiſh</hi> People and State, are decreed, till the End of the <hi>War</hi> againſt Chriſt and his <hi>Kingdom,</hi> firſt by the <hi>Roman Pagan,</hi> and then by the <hi>Roman Antichriſtian Empire:</hi> As therefore the word <hi>War</hi> is made uſe of by <hi>Daniel, c</hi> 9.26. as the Bound<g ref="char:EOLhyphen"/>ing of <hi>Jewiſh Deſolations;</hi> So the word <hi>War</hi> is us'd by the Spirit of God as its own word, which It Kept in Memory in the <hi>Revelation,</hi> con<g ref="char:EOLhyphen"/>cerning the <hi>Pagan Empire, Rev.</hi> 12.7. and concerning the <hi>Antichriſtian Empire;</hi> The word <hi>War</hi> is Three Times us'd, c. 11.7. c. 13. 7 c. 17.14. Now when the <hi>Kingdom of Chriſt</hi> is in Succeſſion, the <hi>War</hi> will End, and ſo There is a Great Aſſurance, The <hi>Jews</hi> will be Call'd by the Preaching the <hi>Everlaſting Goſpel.</hi>
+            </p>
+            <p>
+               <hi>Poſit.</hi> 9. For the <hi>Preaching the Everl<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſting Goſpel,</hi> (by which the Great Atchievments of the <hi>Kingdom of Chriſt</hi> will be obtain'd;) There will be a <hi>Pouring out of the Spirit,</hi> as in the <hi>Apoſtles days,</hi> and with a much more Perfect Univerſality, which ſhall firſt Bring forth the <hi>Full Orb'd Light,</hi> ſtyled the <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> of the <hi>Gentile Churches,</hi> that have been ſo long under an <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or Eclipſe, and ſo ſhall Haſten in the <hi>Jews;</hi> Even All <hi>Iſrael,</hi> and make them Ready for the <hi>First Reſurrection;</hi> For Their <hi>Full Light,</hi> or <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, much more then their <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or <hi>Eclipſe,</hi> or ſo long <hi>Diminution</hi> ſhall be the <hi>Riches of the World,</hi> and that <hi>Life from the Dead of the first Reſurrection.</hi> Rom. 11.18.</p>
+            <p>
+               <hi>Poſit.</hi> 10. The Ceſſation of the Extraordinary and Miraculous Gifts of the <hi>Holy Spirit,</hi> hath been in Permiſſion of, and during the State of the <hi>Apoſtaſie;</hi> For the Fullneſs of the <hi>Spirit</hi> is even Eſſential to the <hi>Glory of Redemption,</hi> and to the <hi>Kingdom of Meſſiah.</hi> Acts 2.17. <hi>Iſa.</hi> 59.21.</p>
+            <p>
+               <hi>Poſit.</hi> 11. As a Specimen of the <hi>Line of Time,</hi> drawn over the <hi>Last Times;</hi> I Affirm, that after that Great <hi>Viſion of Ezekiel's Temple and City,</hi> and the <hi>Throne of God</hi> in it; There is that Grand Line of the 2300 <hi>Evens. Morns.</hi> in <hi>Daniel,</hi> as the Line of all Time, to the <hi>Kingdom of Chriſt</hi> from the End of the <hi>Babyloniſh Captivity,</hi> and the Entrance of <hi>Cyrus</hi>'s Decree to Reſtore it; <note n="*" place="margin">From <hi>Litte<g ref="char:EOLhyphen"/>ral</hi> to <hi>Myſtical Babylon</hi> Fal<g ref="char:EOLhyphen"/>ling.</note> 
+               <hi>c.</hi> 8. which is in the after <hi>Viſions of Daniel,</hi> and of the <hi>Revelation,</hi> Parcell<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d out into leſſer <hi>Lines;</hi> and all, and every one Engraven with Notes of the <hi>Temple, Sanctuary,</hi> or <hi>Dayly Sacrifice,</hi> to Indent with <hi>Ezekiels Viſion,</hi> viz, 75 <hi>Y.</hi> 
+               <note n="*" place="margin">With Great Beauty 75 <hi>Y.</hi> at firſt prepare for the <hi>Litteral.</hi> 75 at laſt pre<g ref="char:EOLhyphen"/>pare for the <hi>New Jeruſalem.</hi>
+               </note> as may by Computation be Found, for the <hi>Word going forth</hi> according to the Commandment of the <hi>God of Iſrael,</hi> by <hi>Cyrus, Darius,</hi> and <hi>Artaxerxes,</hi> Kings of <hi>Perſia, Ezra</hi> 6.14. From thence 490 in the 70 <hi>Weeks</hi> Expreſs, till the <hi>Anointing the Holiest</hi> by the <hi>Spirit, pour'd out on Chriſt without Meaſure;</hi> and then on his <hi>Apoſtles,</hi> and <hi>Chriſtians</hi> as the <hi>Spiritual Temple, Dan.</hi> 9.24. <hi>Epheſ.</hi> 2.21. Repreſented <hi>Rev. c.</hi> 4. From thence to the <hi>Temple, Meaſur'd</hi> and <hi>Shut up,</hi> with its <hi>Worſhippers,</hi> and the <hi>Outward Court caſt out,</hi> and <hi>Trodden under Foot</hi> of the <hi>Gentiles, Rev.</hi> 11.1. <hi>&amp;c.</hi> and ſo the <hi>Dayly Sacrifice Taken away,</hi> as may be Computed 400 <hi>Y.</hi> From thence during the <hi>Abomi<g ref="char:EOLhyphen"/>nation of the Apoſtaſie,</hi> making <hi>Deſolate</hi> to the <hi>Temple,</hi> ſeen on <hi>Mount Zion</hi> by the Followers of the <hi>Lamb</hi> in the Time of the <hi>7th Trumpet,</hi> 1260 Expreſs Years; From thence to the <hi>Temple open'd,</hi> and the <hi>Tabernacle of Teſtimony</hi> more Fully ſeen, (<hi>c.</hi> 15.5.8.) 30 Expreſs Years making the 1260 1290. as <hi>Dan.</hi> 12. when the <hi>Temple was filled with Smoak</hi> from the <hi>Glory of the Lord,</hi> and his <hi>Power,</hi> during the <hi>Pouring out of the Vials, ſo that none could enter, v.</hi> 8. From thence to <hi>God</hi> and the <hi>Lamb,</hi> Bringing down their <hi>Tabernacle to be with Men, c.</hi> 21. <hi>v.</hi> 3. <hi>v.</hi> 22. and being the <hi>Temple of the New Jeru<g ref="char:EOLhyphen"/>ſalem</hi> 45 Expreſs Y. making the 1290 1335, when All the Servants of God ſhall ſtand in their <hi>Lots, Dan.</hi> 12.13. as the Kings and Prieſts of the <hi>New Jeruſalem,</hi> and <hi>Ezekiel's Viſional Throne, Ezek.</hi> 43.7. Even the <hi>Throne of God,</hi> and of the <hi>Lamb</hi> are in it, <hi>Rev.</hi> 22 3. All which make the 2300 <hi>Evens Morns.</hi> of Years to the <hi>Great Sabbatiſm,</hi> So from the <hi>Temple</hi> are the Two Voices, <hi>It is done, It is done. Rev.</hi> 16.17. <hi>c.</hi> 21.6.</p>
+            <p>
+               <hi>Poſit.</hi> 12. There is no <hi>Parcel,</hi> or <hi>Collatteral Line</hi> of Theſe 2300 <hi>Evens. Morns.</hi> but is under Expreſs Prophetical Number, except the 75 of the <hi>Word going forth</hi> before the 70 <hi>Weeks,</hi> and the 400 from the 70 <hi>Weeks</hi> ending, unto the <hi>Churches going into the Wilderneſs</hi> upon the <hi>Apoſtaſie</hi> Beginning. Now if the 400 <hi>Y.</hi> can be any way Aſcertain'd, the 75 before the <hi>Weeks</hi> muſt needs be Aſcertain'd alſo; becauſe all the other parts but theſe Two being numbred, if the Certain Number of the 400 be fix'd, There can be no more then 75 at the firſt; Now therefore beſides many Reaſons of Eſſential Intimacy to the <hi>Prophecy</hi> of the <hi>Revelation,</hi> and to <hi>Hiſtory,</hi> Aſſuring this Time was juſt 400 <hi>Y.</hi> as is elſewhere Fully Argued; It hath pleas'd God to bring to my mind this Great Obſervation.</p>
+            <p>The only <hi>Prophetical,</hi> and <hi>Myſtical</hi> Time God gave to his <hi>Church</hi> before the <hi>Babyloniſh Captivity,</hi> when All Time was drawing up into <hi>Prophecy,</hi> was the 400 <hi>Years,</hi> Given to <hi>Abra<g ref="char:EOLhyphen"/>ham</hi> till His <hi>Poſterities going out of AEgypt</hi> into the <hi>Wilderneſs,</hi> and the 40 <hi>Days</hi> for <hi>Years</hi> in the <hi>Wilderneſs;</hi> Between which 400 <hi>Years,</hi> and the 400 <hi>Years</hi> to the <hi>Chriſtian Churches, Going into the Wilderneſs,</hi> and its being in the <hi>Wilderneſs,</hi> There are ſo many Admirable Agreements that muſt needs perſwade, One was Intended for the other as a <hi>Type.</hi>
+            </p>
+            <p>1. The 400 <hi>Y.</hi> were Given to <hi>Abraham</hi> on the <hi>Covenant</hi> Renewed by <hi>Sacrifice,</hi> ſo to the <hi>Chriſtian Church,</hi> 400 <hi>Y.</hi> at the <hi>Covenant</hi> on Greateſt <hi>Sacrifice</hi> Confirmed by <hi>Christ</hi> and his <hi>Apoſtles.</hi> Gen. 15.13. Dan. 9.27. 2. The firſt 400 <hi>Y.</hi> Reach'd to <hi>Pharaoh,</hi> as a Dragon, Eſſaying to deſtroy <hi>Iſrael,</hi> God's <hi>First born,</hi> by Killing the <hi>Male Children;</hi> ſo the <hi>Pagan Emperour</hi> Thought to devour the <hi>Imperial Manly Child Jeſus Chriſt, King of Kings,</hi> and <hi>Lord of Lords.</hi> Revel. 12.2. <hi>&amp;c.</hi> 3. When the <hi>Church of Iſrael</hi> went out from under <hi>Pharoah,</hi> It Immediately paſs'd into the <hi>Wilderneſs;</hi> The <hi>Chriſtian Church</hi> was no ſooner Fully Free from the <hi>Pagan Perſecution,</hi> but it went into the <hi>Wilderneſs,</hi> as the <hi>Revelations</hi> ſets out, <hi>c.</hi> 12. 4. God carried <hi>Iſrael</hi> in<g ref="char:EOLhyphen"/>to the <hi>Wilderneſs,</hi> as on <hi>Eagles Wings.</hi> The <hi>Chriſtian Church</hi> was carried into a Retired State by a ſpecial Care of God to be <hi>Nouriſh'd in its place.</hi> 5. The <hi>Wilderneſs</hi> State was a State of <hi>Apoſtaſie;</hi> So the <hi>Apoſtaſie of Antichriſt</hi> covered the General <hi>Chriſtian Profeſſion,</hi> and the True <hi>Church</hi> was Hid, as in a <hi>Wilderneſs.</hi> 6. There were <hi>Days</hi> for <hi>Years</hi> in the <hi>Wilderneſs;</hi> ſo in the <hi>Chriſtian Church,</hi> the 1260 <hi>Days</hi> are <hi>Days</hi> for <hi>Years,</hi> and the 42 <hi>Months</hi> are <hi>Months of Years.</hi> 7. There were 42 <hi>Encampings,</hi> 
+               <note n="*" place="margin">As it were Months.</note> as the excellent Mr. <hi>Mede</hi> long ago obſerv'd, and They are <hi>Numb.</hi> 33, ſtrictly reckon'd, and there are 42 <hi>Months</hi> of the <hi>Gentiles,</hi> 
+               <note n="*" place="margin">As it were Manſions.</note>and of the <hi>Beast</hi> Complicated into one. 8. As the <hi>Iſraelites</hi> provoking God by their <hi>Apoſtaſie,</hi> caus'd their Long Stay in the <hi>Wilderneſs,</hi> ſo the <hi>Apoſtolizing Eaſtern,</hi> and <hi>Weſtern Roman Empires VVings</hi> carried the <hi>Chriſtian Church</hi> ſo far into the <hi>Wilderneſs.</hi> 9. As <hi>Iſrael</hi> was Fed with <hi>Manna,</hi> ſo the <hi>Chriſtian True Church</hi> was Fed with <hi>Hidden Manna</hi> during the <hi>Apoſtaſie.</hi> 10. As it had a <hi>Balam</hi> then to Seduce it, ſo had the <hi>Chriſtian Church</hi> in its <hi>Wilderneſs</hi> State, <hi>Rev.</hi> 2.14.17. 11. As the <hi>Iſraelites</hi> had divine Protection as a <hi>Pillar of Cloud</hi> on the <hi>Tabernacle,</hi> that made the 42 <hi>Manſions</hi> 
+               <note n="*" place="margin">As it were Months.</note> or Delays to <hi>Canaan</hi> before ſpoken of: So the <hi>Chriſtian Glory</hi> is under a divine Reſerve, till the End of the <hi>Apoſtaſie</hi> ſecur'd from All Enemies to its Future State, during the 42 Months of delay.<note n="*" place="margin">As it were Manſions.</note> 12. As the Cloud was a Night, and darkneſs to the <hi>AEgyptians,</hi> and Light to the <hi>Iſraelites. Exod.</hi> 14.20. So Spiritual <hi>Egypt</hi> is in a Dark Foul Place as in a Night, Accounted by Time of the <hi>Moon,</hi> or 42 M. but the True <hi>Iſraelitiſh Chriſtian Church</hi> had, as the Appearance of Fire to Guide all its Motions: Saints Time is therefore accounted by the Day 1260 <hi>D.</hi> although in <hi>Sackcloth,</hi> becauſe of the <hi>Apoſtaſie.</hi> 13. As the <hi>Iſraelites</hi> moves to<g ref="char:EOLhyphen"/>wards <hi>Canaan,</hi> were by divine direction by the <hi>Cloud taken off:</hi> ſo the Moves of All the <hi>Witneſſes</hi> of Chriſt againſt <hi>Idolatry, Image-worſhip, Superſtition</hi> was by that Dark <hi>Cloud</hi> of the <hi>Apoſtaſie</hi> taken off from Them: ſo in the Enemies of <hi>Images,</hi> the <hi>Waldenſes, John Hus, Jerome of Prague, Wickliff,</hi> the <hi>Bohemians,</hi> the <hi>Reformation,</hi> which was indeed like that ſmall part of the Tribes, <hi>Reuben, Gad,</hi> the <hi>Half Tribe of Manaſſeh</hi> before the Reſt, Poſſeſſing part of the <hi>Promiſed Lands,</hi> but ſtill to be in Arms, as the <hi>Proteſtant Churches</hi> ought to be,<note place="margin">Bind up the <hi>Teſtimony,</hi> ſeal the Law among my Diſciples, and I will wait, <hi>&amp;c.</hi> Iſa. 8.16.17. <hi>&amp;c.</hi>
+               </note> and not to Take Reſt, Grandieur and ſplendor to Themſelves till the Full <hi>Reformation,</hi> leaſt that ſin Find them out, as <hi>Numb.</hi> 32.23. 14. The End of the <hi>Wilderneſs</hi> was the <hi>Promiſed Land</hi> by <hi>Joſhuah</hi> or <hi>Jeſus:</hi> ſo the True <hi>Jeſus</hi> and his Kingdom ſhall be the End of the <hi>Wilderneſs</hi>-ſtate of the <hi>Chriſtian Church.</hi>
+            </p>
+            <p>From All this I Conclude, That there being other moſt Subſtantial Proof, This Parallel is a very Aſſuring Illuſtration, that the Time from the 70 W. ended to the <hi>Church of Christ,</hi> going into the <hi>Wilderneſs,</hi> or being out of ſight during the <hi>Apoſtaſie,</hi> was juſt 400 <hi>Y.</hi> ending at 437, and ſo It muſt come out of the <hi>Wilderneſs</hi> 1697. after the 1260 <hi>Days for Years,</hi> and the 42 <hi>Months of Years</hi> Ended, and ſo is moſt certainly to be Expected; For 1260 <hi>Years</hi> from 437, muſt Terminate in 1697.</p>
+            <trailer>The TESTIMONY is FINISH'D.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
